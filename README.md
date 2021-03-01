@@ -5,3 +5,6 @@
 ### About
 I formed a group with 5 students including myself who are currently studying in Seneca and participated in this competition.
 We discussed various challenge sets and decided on topic Patient Data Consent System. The reason is that blockchain technology is in the spotlight around the world these days, and we thought it would be more fun to incorporate it into medical data.
+
+Detailed information on our challenge set is available from the link below.
+https://spark.adobe.com/page/Hr4JFzIZy60Jj/ 
