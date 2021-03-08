@@ -12,7 +12,7 @@ https://spark.adobe.com/page/Hr4JFzIZy60Jj/
 
  ## GO_TO_THE_MOON 🚀
 
-![GTM-logo-white](https://user-images.githubusercontent.com/47313362/110156626-36fc7780-7db5-11eb-8d90-396030328db9.png)
+![GTM_logo](https://user-images.githubusercontent.com/47313362/110383572-78e22380-802a-11eb-8888-a322dee263a0.png)
 
 ## This link is [Website Simulation Video](https://github.com/jjaykim/Seneca_Hackathon_2021/issues/1#issue-824964660) !!
 
